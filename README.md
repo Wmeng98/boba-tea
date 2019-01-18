@@ -1,3 +1,4 @@
+# Refer to ethanlee/boba-tea for up to date repository
 # View the finished application
 https://boba-228419.appspot.com/static/landing.html
 
